@@ -22,7 +22,7 @@ using the [fonttools](https://github.com/fonttools/fonttools) library.
 
 * Read all defined properties.
 * Retrieve the embedded TTF file data. Currently limited to uncompressed and unencrypted data as this
-  is what the test I found use.
+  is what the test files I found use.
 
 ## Installation
 
