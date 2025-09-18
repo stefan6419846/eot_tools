@@ -1,4 +1,4 @@
 # Ensure that we always test against the latest versions
 # as soon as they get released by pinning them here and
 # letting `dependabot` update them for new releases.
-fonttools==4.59.2
+fonttools==4.60.0
