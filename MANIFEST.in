@@ -2,3 +2,4 @@ include eot_tools/py.typed
 include tests/files/*.eot
 include tests/files/*.ttf
 include tests/files/*.ABOUT
+include tests/files/*.NOTICE
